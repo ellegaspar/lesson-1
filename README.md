@@ -1,3 +1,2 @@
-# lesson-1
-this is the first lesson
-this is not my world, it is too boring :P or may be difficult
+# bashscript
+creating several directories with some files, and then recursively replacing the texts of all files using linux commands.
